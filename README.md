@@ -1,4 +1,4 @@
-# World of Warcraft 3.4.3 Source Source code.
+# WyrmrestCore 3.4.3 Source Code.
 
 ## Prerequisites
 
